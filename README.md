@@ -19,7 +19,8 @@ Players can interact with various in-app elements, such as notifications about n
 ---
 
 ## Screens: 
-![image](https://github.com/user-attachments/assets/98ece488-9e6d-4bfc-8fd1-0b936223d5a2)
+![image](https://github.com/user-attachments/assets/5496d09e-5d54-4af3-b554-2a243246aa5f)
+
 
 
 
