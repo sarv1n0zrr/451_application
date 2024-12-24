@@ -20,9 +20,9 @@ Players can interact with various in-app elements, such as notifications about n
 
 ## Screens: 
 ```markdown
-![Home Page](C:\Users\User\Desktop\book_app\assets\screens\home page.png)
-![Home Page](C:\Users\User\Desktop\book_app\assets\screens\book page.png)
-![Home Page](C:\Users\User\Desktop\book_app\assets\screens\add page.png)
-![Home Page](C:\Users\User\Desktop\book_app\assets\screens\rating page.png)
-![Home Page](C:\Users\User\Desktop\book_app\assets\screens\team page.png)
-![Home Page](C:\Users\User\Desktop\book_app\assets\screens\profile page.png)
+![Home Page](assets\screens\home page.png)
+![Home Page](assets\screens\book page.png)
+![Home Page](assets\screens\add page.png)
+![Home Page](assets\screens\rating page.png)
+![Home Page](assets\screens\team page.png)
+![Home Page](assets\screens\profile page.png)
