@@ -19,9 +19,10 @@ Players can interact with various in-app elements, such as notifications about n
 ---
 
 ## Screens: 
+```markdown
 ![Home Page](assets\screens\home page.png)
-![Home Page](assets\screens\book page.png)
-![Home Page](assets\screens\add page.png)
-![Home Page](assets\screens\rating page.png)
-![Home Page](assets\screens\team page.png)
-![Home Page](assets\screens\profile page.png)
+![Book Page](assets\screens\book page.png)
+![Add Page](assets\screens\add page.png)
+![Rating Page](assets\screens\rating page.png)
+![Team Page](assets\screens\team page.png)
+![Profile Page](assets\screens\profile page.png)
