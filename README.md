@@ -19,10 +19,12 @@ Players can interact with various in-app elements, such as notifications about n
 ---
 
 ## Screens: 
-```markdown
-![Home Page](assets\screens\home page.png)
-![Book Page](assets\screens\book page.png)
-![Add Page](assets\screens\add page.png)
-![Rating Page](assets\screens\rating page.png)
-![Team Page](assets\screens\team page.png)
-![Profile Page](assets\screens\profile page.png)
+![home page](https://github.com/user-attachments/assets/db3798f4-f6ad-459a-a632-9ba6a241dcd8)
+![book page](https://github.com/user-attachments/assets/3e1db6d8-b300-4661-a95f-05a98de697ef)
+![add page](https://github.com/user-attachments/assets/9d6ea697-5e76-40b0-bfc5-7f4bba3f478e)
+![rating page](https://github.com/user-attachments/assets/b0bafd74-c6b3-4b1f-bba3-99dc43bfa6ef)
+![team page](https://github.com/user-attachments/assets/bf29da63-11bc-4498-a578-ae599d3b5818)
+![profile page](https://github.com/user-attachments/assets/13e9e32c-814c-4791-875f-4e594658c692)
+
+
+
